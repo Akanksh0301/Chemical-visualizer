@@ -1,0 +1,6 @@
+Equipment Name,Type,Flowrate,Pressure,Temperature
+Pump A,Pump,10,5.2,120
+Pump B,Pump,15,5.5,121
+Valve A,Valve,0,5.3,119
+Valve B,Valve,0,5.4,120
+Compressor A,Compressor,20,5.6,122
