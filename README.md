@@ -69,7 +69,6 @@ Visualizations can be exported or saved for reports.
 Monitor datasets in real-time if backend supports live updates.
 
 **4.Project Structure**
-
 chemical-visualizer/
 ├─ backend/                  # Backend code (Django/Flask)
 │  ├─ db.sqlite3
@@ -86,6 +85,7 @@ chemical-visualizer/
 └─ README.md                 # This file
 
 **Contributing**
+
 We welcome contributions! Steps:
 Fork the repository.
 Create a feature branch:
