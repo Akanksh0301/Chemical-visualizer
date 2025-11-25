@@ -69,20 +69,23 @@ Visualizations can be exported or saved for reports.
 Monitor datasets in real-time if backend supports live updates.
 
 **4.Project Structure**
+
 chemical-visualizer/
-├─ backend/                  # Backend code (Django/Flask)
-│  ├─ db.sqlite3
-│  ├─ media/uploads/
-│  └─ ... 
-├─ chemical-visualizer-frontend/   # Frontend React app
-│  ├─ node_modules/
-│  ├─ public/
-│  ├─ src/
-│  ├─ package.json
-│  └─ README.md
-├─ backend.zip               # Optional backup (ignored in git)
-├─ bfg-1.15.0.jar            # Optional BFG cleanup tool
-└─ README.md                 # This file
+├── backend/                # Backend code (Django/Flask)
+│   ├── db.sqlite3
+│   ├── media/uploads/
+│   │   └── ...
+│   └── ...
+├── chemical-visualizer-frontend/   # Frontend React app
+│   ├── node_modules/
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   └── README.md
+├── backend.zip             # Optional backup (ignored in git)
+├── bfg-1.15.0.jar          # Optional BFG cleanup tool
+└── README.md               # This file
+
 
 **Contributing**
 
