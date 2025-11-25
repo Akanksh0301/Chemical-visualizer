@@ -5,7 +5,7 @@ This tool helps users explore, monitor, and interpret chemical datasets through 
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
@@ -18,7 +18,7 @@ This tool helps users explore, monitor, and interpret chemical datasets through 
 
 ---
 
-## 🚀 Features
+##  Features
 - Upload and manage chemical datasets  
 - Interactive visualizations (charts, graphs, tables)  
 - Multi-platform support (web & desktop)  
@@ -27,7 +27,7 @@ This tool helps users explore, monitor, and interpret chemical datasets through 
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 **Frontend:** React.js, Axios, Recharts, HTML5, CSS  
 **Backend:** Django / Flask (choose depending on your implementation)  
 **Database:** SQLite  
@@ -37,7 +37,7 @@ This tool helps users explore, monitor, and interpret chemical datasets through 
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### **1. Clone the Repository**
 git clone https://github.com/Akanksh0301/Chemical-visualizer.git
@@ -72,7 +72,7 @@ Backend runs at:
 
 ---
 
-## ▶️ Usage
+## Usage
 1. Start backend + frontend  
 2. Open the frontend: http://localhost:3000  
 3. Go to **Upload Page** → Upload CSV chemical dataset  
@@ -82,7 +82,7 @@ Backend runs at:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 chemical-visualizer/
 ├── backend/ # Backend code (Django/Flask)
@@ -104,7 +104,7 @@ chemical-visualizer/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions!
 
@@ -120,10 +120,10 @@ git push origin feature/your-feature-name
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Akanksha Chougule**  
-📧 Email: akanksha@example.com  
+📧 Email: akankshachougule03@gmail.com  
 🔗 GitHub: https://github.com/Akanksh0301
 
 ---
